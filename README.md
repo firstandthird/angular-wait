@@ -1,4 +1,4 @@
 angular-wait
 ============
 
-Angular service for wait
+Angular factory for wait
