@@ -1,0 +1,24 @@
+{
+  "name": "angular-wait",
+  "description": "Angular service for wait",
+  "version": "0.1.0",
+  "homepage": "https://github.com/firstandthird/angular-wait",
+  "license": "MIT",
+  "copyright": "First + Third",
+  "main": "dist/angular-wait.js",
+  "dependencies": {
+    "jquery": "~1.10.0",
+    "angular": "~1.0.7"
+  },
+  "devDependencies": {
+    "assert": "*"
+  },
+  "ignore": [
+    "test",
+    "example",
+    "grunt",
+    "lib",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
